@@ -10,7 +10,7 @@ using System.Web.UI.HtmlControls;
 using System.Data.SqlClient;
 /// <Summary>
 ///		Standardize Database operation
-/// 	Before using these functions, you must configure connectionstring named "ProductPerformance" in Web.config file.
+/// 	Before using these functions, you must configure connectionstring named "ProductionPerformance" in Web.config file.
 /// </Summary>
 
 public class DBHelper{
